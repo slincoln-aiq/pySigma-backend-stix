@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "pySigma-backend-stix"
-version = "0.1.9"
-description = "STIX language backend for pySigma convertor"
-authors = ["Cyber-center of Excellence <barha@il.ibm.com>"]
+name = "pySigma-backend-stix2"
+version = "0.2.0"
+description = "STIX language backend for pySigma convertor. Forked from https://github.com/barvhaim/pySigma-backend-stix and updated to support latest pySigma versions."
+authors = ["Cyber-center of Excellence <barha@il.ibm.com>", "AttackIQ <stephen.lincoln@attackiq.com>"]
 license = "MIT"
-repository = "https://github.com/barvhaim/pySigma-backend-stix"
+repository = "https://github.com/slincoln-aiq/pySigma-backend-stix2"
 packages = [
     { include = "sigma" }
 ]
