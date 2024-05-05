@@ -1,5 +1,12 @@
-# pySigma stix Backend
+# Note
 
+This is a forked version of the original pySigma stix backend. The original version can be found [here](https://github.com/barvhaim/pySigma-backend-stix) via user barvhaim.
+The original repository has not been updated and is incompatible with the latest version of pySigma. This forked version has been updated to be compatible with the latest version of pySigma, and released on PyPI,
+so it can be installed with `pip`/`poetry`.  If the original repository is updated, this fork will be removed and the original repository should be used.
+
+
+# Original README
+# pySigma stix Backend
 This is the stix backend for pySigma. It provides the package `sigma.backends.stix` with the `stixBackend` class.
 Further, it contains the following processing pipelines in `sigma.pipelines.stix`:
 
