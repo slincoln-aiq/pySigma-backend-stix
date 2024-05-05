@@ -1,3 +1,7 @@
+![Tests](https://github.com/slincoln-aiq/pySigma-backend-stix2/actions/workflows/test.yml/badge.svg)
+![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/slincoln-aiq/997152ea6266fea4f2e0c25e24986b4f/raw/slincoln-pySigma-backend-stix2.json)
+![Status](https://img.shields.io/badge/Status-pre--release-orange)
+
 # Note
 
 This is a forked version of the original pySigma stix backend. The original version can be found [here](https://github.com/barvhaim/pySigma-backend-stix) via user barvhaim.
